@@ -1,0 +1,38 @@
+
+body {
+  margin: 0 300px;
+    text-align: center;
+}
+  header {
+    margin: 0 auto;
+    padding: 7px 30px;
+    background-color: #021C1E;
+    font-family: "Archivo Black";
+    letter-spacing: 2px;
+    color: burlywood;
+    text-align: center;
+}
+
+#badan {
+  margin: 0 auto ;
+  padding: 10px;
+    background-color: burlywood; 
+}
+.hints {
+  text-align: center;
+    font-family: "Archivo Black";
+  
+}
+h1 {
+  font-size: 30px;
+}
+
+.tombol {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+button {
+  font-size: 12px;
+  padding: 10px 0 10px 0;
+}
